@@ -1,0 +1,10 @@
+streamlit
+pandas
+openpyxl
+anthropic
+google-api-python-client
+google-auth
+google-auth-oauthlib
+requests
+xlsxwriter
+xlrd>=2.0.1
